@@ -1,0 +1,19 @@
+in theory, and with math. So I guess one question is why is it so hard to
+build a quantum computer? What's your view of timelines in bringing these ideas to life? - Right, I think that, you know, an overall theme of my company is that we have folks that are, you know, there's a sort of exodus
+from quantum computing and we're going to
+broader physics-based AI that is not quantum. So that gives you a hint, and. - So we should say the name
+of your company is Extropic. - Extropic, that's right. And we do physics-based AI
+primarily based on thermodynamics rather than quantum mechanics. But essentially a quantum computer is very difficult to build
+because you have to induce this sort of zero temperature
+subspace of information. And the way to do that is
+by encoding information, you encode a code within a code, within a code within a code. And so there's a lot of redundancy needed to do this error correction. But ultimately it's a sort
+of algorithmic refrigerator. Really, it's just pumping out entropy out of the subsystem that
+is virtual and delocalized that represents your quote
+unquote logical qubits. AKA, the payload quantum bits in which you actually want to run your quantum mechanical program. It's very difficult because in order to scale
+up your quantum computer, you need each component to
+be of sufficient quality for it to be worth it. Because if you try to do
+this error correction, this quantum error correction process, and each quantum bit and
+your control over them, if it's insufficient,
+it's not worth scaling up. You're actually adding more
+errors than you remove. And so there's this notion of a threshold where if your quantum bits
+are of sufficient quality in terms of your control over them, it's actually worth scaling up. And actually in recent years, people have been crossing the threshold, and it's starting to be worth it. And so it's just a very

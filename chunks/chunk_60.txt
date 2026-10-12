@@ -1,0 +1,22 @@
+doing that for the cred. - No, no, I'm truly French
+Canadian from Montreal. But yeah, essentially we look for people with very high fluid intelligence that aren't overspecialized, because they're gonna have to
+get out of their comfort zone. They're gonna have to incorporate concepts that they've never seen before, and very quickly get
+comfortable with them, right. Or learn to work in a team. And so that's sort of what
+we look for when we hire. We can't hire, you know,
+people that are just like, you know, optimizing this subsystem for the past three or four years. We need like really general sort of broader
+intelligence and specialty, and people that are open-minded, really. 'Cause if you're pioneering
+a new approach from scratch, there is no textbook,
+there's no reference. It's just us, and people
+that are hungry to learn. So we have to teach each other, we have to learn the literature, we have to share knowledge
+bases, collaborate, in order to push the boundary
+of knowledge further together. Right, and so people that are used to just getting prescribed what to do, you know, at this stage when you're
+at the pioneering stage, that's not necessarily who
+you want to hire, you know. - So you mentioned with Extropic you're trying to build
+the physical substrate for generative AI. What's the difference between
+that and the AGI, AI itself? So is it possible that in
+the halls of your company, AGI will be created, or
+will AGI just be using this as a substrate? - I think our goal is to
+both run human-like AI or anthropomorphic AI. - Sorry for use of the term AGI, and I know it's triggering for you. - We think that the future
+is actually physics-based AI combined with anthropomorphic AI. So you can imagine, I have a
+sort of world modeling engine through physics-based AI, physics-based AI is better at representing the world at all scales, 'cause it can be quantum
+mechanical, thermodynamic, deterministic, hybrid

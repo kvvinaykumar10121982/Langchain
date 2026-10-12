@@ -1,0 +1,20 @@
+gal in her mom's basement to make progress. And it seems like the
+transition to that kind of world where only one player can
+develop AGI is possible. It's just not entirely impossible, even though the current state of things seems to be optimistic. - That's what we're trying to avoid. To me, I think like
+another point of failure is the centralization of the supply chains for the hardware, right? We have Nvidia is just
+the dominant player, AMD's trailing behind, and then we have TSMC is
+the main fab in Taiwan, which, you know, geopolitically sensitive. And then we have ASML, which is the maker of the lithography, extreme ultraviolet lithography machines, you know, attacking or monopolizing or co-opting any one point in that chain. you kind of capture the space. And so what I'm trying to do
+is sort of explode the variance of possible ways to do AI in hardware by fundamentally re-imagining how you embed AI algorithms
+into the physical world. And in general, by the way,
+I dislike the term AGI, artificial general intelligence. I think it's very anthropocentric
+that we call human-like, or human level AI, artificial
+general intelligence, right? I've spent my career so far exploring notions of intelligence that no biological brain
+could achieve, right? Quantum form of intelligence, right? Grokking systems that have multipartite
+quantum entanglement that you can provably
+not represent efficiently on a classical computer, a classical deep learning representation, and hence any sort of biological brain. And so already, you know,
+I've spent my career sort of exploring the wider
+space of intelligences, and I think that space of intelligence inspired by physics rather
+than human brain is very large. And I think we're going
+through a moment right now similar to when we went from
+geocentrism to heliocentrism, right, but for intelligence. We realized that human
+intelligence is just a point in a very large space of

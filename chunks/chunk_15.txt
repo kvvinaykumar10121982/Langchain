@@ -1,0 +1,22 @@
+power for this AI revolution doesn't concentrate in
+the hands of the few is one of our top priorities. So that we can maintain progress in AI, and we can maintain a nice, stable, adversarial equilibrium of powers, right? - I think there, at least to me, a tension between ideas here. So to me, deceleration can be
+both used to centralize power and to decentralize it. And the same with acceleration. So like you sometimes using
+them a little bit synonymously or not synonymously, but that one is going
+to lead to the other. And I just would like to ask you about, is there a place of creating
+a fault-tolerant development, diverse development of AI that also considers the dangers of AI? And AI, we can generalize
+to technology in general. Should we just grow, build unrestricted as quickly as possible, because that's what the universe
+just really wants us to do? Or is there a place to where
+we can consider dangers and actually deliberate sort
+of wise strategic optimism versus reckless optimism? - I think we get painted
+as, you know, reckless, trying to go as fast as possible. I mean, the reality is that
+whoever deploys an AI system is liable for, or should
+be liable for what it does. And so if the organization or
+person deploying an AI system does something terrible, they're liable. And ultimately the thesis is
+that the market will induce, sort of, will positively select for AIs that are more reliable, more
+safe, and tend to be aligned. They do what you want them to do, right? Because customers,
+right, if they're liable for the product they put
+out that uses this AI, they won't wanna buy AI products
+that are unreliable, right? So we're actually for
+reliability engineering, we just think that the
+market is much more efficient at achieving this sort
+of reliability optimum than sort of heavy-handed regulations that are written by the incumbents, and in a subversive fashion serves them to achieve regulatory capture. - So to you, safe AI

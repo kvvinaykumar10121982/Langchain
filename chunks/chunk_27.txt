@@ -1,0 +1,21 @@
+lot of dark bad things happen. The question is, can AGI
+become that dictator? An AGI one develop, become the centralizer because of its power? Maybe has the same, because
+of the alignment of humans, perhaps, the same tendencies, the same Stalin-like
+tendencies to centralize and manage centrally the
+allocation of resources. And you can even see that
+as a compelling argument on the surface level. Well, AGI is so much smarter,
+so much more efficient, so much better at allocating resources. Why don't we outsource it to the AGI, and then eventually whatever forces that corrupt the human mind with power could do the same for AGI. It would just say, well,
+humans are dispensable, we'll get rid of them. Do the Jonathan Swift "Modest Proposal" from a few centuries
+ago, I think the 1700s, when he satirically suggested
+that, I think it's in Ireland, that the children of poor people are fed as food to the rich people. And that would be a good idea, because it decreases the
+amount of poor people, and gives extra income to the poor people. So it's on several accounts decreases the amount of poor people, therefore more people become rich. Of course it misses a
+fundamental piece here that's hard to put into
+a mathematical equation on the basic value of human life. So all of that to say, are
+you concerned about AGI being the very centralizer of power that you just talked about? - I do think that right now there's a bias towards
+overcentralization of AI because of compute density
+and centralization of data and how we're training models. I think over time we're
+gonna run out of data to scrape over the internet. And I think that, well, actually I'm working on
+increasing the compute density so that compute can be everywhere
+and acquire information and test hypotheses in the environment in a distributed fashion. I think that fundamentally,
+centralized cybernetic control. So having one intelligence
+that is massive, that, you know, fuses many sensors and is trying to perceive

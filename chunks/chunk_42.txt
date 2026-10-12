@@ -1,0 +1,21 @@
+believe that legitimately? I don't think so, but you know, I think that alien life
+could take many forms, and I think the notion of intelligence and the notion of life needs to be expanded much more broadly to be less anthropocentric or biocentric. - Just to linger a little
+longer on quantum mechanics, through all your explorations
+of quantum computing, what's the coolest, most beautiful idea that you've come across
+that has been solved or has not yet been solved? - I think the journey to understand something called AdS/CFT. So the journey to
+understand quantum gravity through this picture where a hologram of lesser
+dimension is actually dual or exactly corresponding to a bulk theory of quantum gravity of an extra dimension. And the fact that this sort of duality comes from trying to learn deep learning-like
+representations of the boundary. And so at least part of my journey someday on my bucket list is to apply
+quantum machine learning to these sorts of systems, these CFDs or they're called SYK models, and learn an emergent geometry
+from the boundary theory. And so we can have a
+form of machine learning to help us understand
+quantum gravity, right. Which is, you know, still a holy grail that I would like to hit
+before I leave this Earth. - What do you think is
+going on with black holes as the information storing
+and processing units, what do you think is
+going on with black holes? - Black holes are really
+fascinating objects. They're at the interface between quantum mechanics and gravity. And so they help us
+test all sorts of ideas. I think that, you know,
+for many decades now, there's been sort of this
+black hole information paradox that things that fall into the black hole we've seen to have lost their information. Now I think there's this firewall paradox that has been allegedly
+resolved in recent years by, you know, a former peer of mine who's now a professor at Berkeley. And there it seems like there is, as information falls into

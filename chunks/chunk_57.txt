@@ -1,0 +1,22 @@
+roughly what we were doing, but really Extropic was
+born from my dissatisfaction and that of my colleagues with the quantum computing roadmap, right? Quantum computing was
+sort of the first path to physics-based computing that, you know, was trying to commercially scale. And I was working on physics-based AI that runs on these
+physics-based computers. But ultimately our greatest
+enemy was this noise, this pervasive problem
+of noise that, you know, as I mentioned, you have to constantly pump
+out the noise out of the system to maintain this pristine environment where quantum mechanics can take effect. And that constraint was just too much, it's too costly to do that. And so we were wondering, right, as generative AI is sort
+of eating the world, more and more of the world's
+computational workloads are focused on generative AI, how could we use physics to engineer the ultimate physical substrate
+for generative AI, right? From first principles of
+physics, of information theory, of computation, and ultimately
+of thermodynamics, right? And so what we're seeking to build is a physics-based computing system, and physics-based AI algorithms that are inspired by out of
+equilibrium thermodynamics or harness it directly to do machine learning
+as a physical process. - So what does that mean? Machine learning as a physical process. Is that hardware, is it
+software, is it both? Is it trying to do the full stack in some kind of unique way? - Yes, it is full stack. And so we're folks that
+have built, you know, differentiable programming into the quantum computing ecosystem with TensorFlow Quantum. One of my co-founders
+of TensorFlow Quantum is the CTO, Trevor McCourt. We have some of the best
+quantum computer architects, those that have designed
+IBM's and AWS's systems, they've left quantum
+computing to help us build what we call actually a
+thermodynamic computer. - A thermodynamic computer. Well, actually let's linger
+on TensorFlow Quantum. What lessons have you learned

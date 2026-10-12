@@ -1,0 +1,16 @@
+mechanical, thermodynamic, deterministic, hybrid
+representations of the world. Just like our world at different scales has different regimes of physics. If you inspire yourself from that in the ways you learn
+representations of nature, you can have much more accurate
+representations of nature. So you can have very accurate world models at all scales, right? And so you have the world modeling engine, and then you have the
+sort of anthropomorphic AI that is human-like, so
+you can have the science, the playground to test your ideas, and you can have a synthetic scientist. And to us, that joint
+system of a physics-based AI and an anthropomorphic AI is the closest thing to a fully general artificially intelligent system. - So you can get closer to truth by grounding of the AI to physics, but you can also still have
+a anthropomorphic interface to us humans that like
+to talk to other humans or human-like systems. So on that topic, what do you, I suppose that is one
+of the big limitations of current large language models to you is that they're not,
+they're good bullshitters, they're not really grounded
+to truth necessarily. Would that be fair to say? - Yeah, no, you wouldn't, you know, try to extrapolate the
+stock market with an LMM trained on texts from the internet, right? It's not gonna be a very accurate model. It's not gonna model its priors or its uncertainties about the world very accurately, right? So you need a different type of AI to compliment sort of this
+text extrapolation AI, yeah. - You mentioned singularity earlier. How far away are we from a singularity? - I don't know if I believe
+in a finite time singularity as a single point in time. I think it's gonna be asymptotic, and sort of a diagonal sort of asymptote. Like, you know, we have the light cone, we have the limits of physics restricting our ability to grow. So obviously can't fully
+diverge on a finite time. I think my priors are that, you know, I think a lot of people on

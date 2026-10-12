@@ -1,0 +1,23 @@
+that is massive, that, you know, fuses many sensors and is trying to perceive
+the world accurately, predict it accurately,
+predict many, many variables and control it, right, enact
+its will upon the world. I think that's just never
+been the optimum, right? Like let's say you have
+a company, you know, if you have a company, I don't know of 10,000 people
+that all report to the CEO, even if that CEO is an AI,
+I think it would struggle to fuse all of the information
+that is coming to it and then predict the whole system and then to enact its will. What has emerged in
+nature and in corporations and all sorts of systems, is a notion of sort of hierarchical
+cybernetic control, right? You have, you know, in
+a company it would be, you have like the individual contributors, they're self interested, and they're trying to achieve their tasks and they have a fine in terms
+of time and space, if you will control loop, and in field
+of perception, right? They have their code base. Let's say you're in a software company, they have their code base, they iterate it on it intraday, right? And then the management maybe checks in, it has a wider scope, it has,
+let's say five reports, right? And then it samples each
+person's update once per week, and then you can go up the chain, and you have larger
+timescale and greater scope. And that seems to have emerged as sort of the optimal
+way to control systems. And really that's what
+capitalism gives us, right? You have these hierarchies and you can even have like
+parent companies and so on. And so that is far more fault tolerant. In quantum computing,
+that's my field I came from, we have a concept of this fault tolerance and quantum error correction, right? Quantum error correction is detecting a fault that came from noise, predicting how it's
+propagated through the system, and then correcting it, right,
+so it's a cybernetic loop. And it turns out that decoders

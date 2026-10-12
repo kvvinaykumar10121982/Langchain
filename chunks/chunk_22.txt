@@ -1,0 +1,20 @@
+augmenting itself with AI and having AI that is not
+anchored to anything biological, both will coexist, and the
+way to align the parties. We already have a sort of mechanism to align superintelligences
+that are made of humans and technology, right? Companies are sort of large
+mixture of expert models where we have neural routing
+of tasks within a company, and we have ways of economic exchange to align these behemoths. And to me, I think capitalism is the way, and I do think that whatever
+configuration of matter or information leads to maximal growth, will be where we converge, just from like physical principles. And so we can either align
+ourselves to that reality, and join the acceleration up in scope and scale of civilization, or we can get left behind
+and try to decelerate and move back in the forest,
+let go of technology, and return to our primitive state. And those are the two paths
+forward, at least to me. - But there's a philosophical question whether there's a limit to
+the human capacity to align. So let me bring it up
+as a form of argument. There's a guy named Dan Hendrycks, and he wrote that he agrees with you that AI development could be viewed as an evolutionary process, but to him, to Dan, this
+is not a good thing, as he argues that natural
+selection favors AIs over humans. And this could lead to human extinction. What do you think? If it is an evolutionary process, and AI systems may have
+no need for humans? - I do think that we're actually inducing an evolutionary process on the space of AIs
+through the market, right? Right now we run AIs that have
+positive utility to humans, and that induces a selective pressure if you consider a neural net being alive when there's an API running
+instances of it on GPUs. Right, and which APIs get run, the ones that have high
+utility to us, right? So similar to how we domesticated wolves and turned them into dogs that are very clear in their expression, they're very aligned, right? I think there's gonna be

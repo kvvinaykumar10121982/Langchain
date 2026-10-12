@@ -1,0 +1,20 @@
+subspace of technologies that have positive
+utility for us all, right. - Well, let me ask you about
+Pdoom, probability of doom. That's just fun to say,
+but not fun to experience. What is to you the probability that AI eventually kills all or most humans, also known as probability of doom? - I'm not a fan of that calculation. I think people just
+throw numbers out there. It's a very sloppy calculation, right? To calculate a probability, you know, let's say you model the world as some sort of Markov process. If you have enough variables
+or hidden Markov process, you need to do a stochastic path integral through the space of all possible futures, not just the futures that your brain naturally
+steers towards, right? I think that the estimators of Pdoom are biased because of our biology, right? We're evolved to have bias sampling towards negative futures that are scary, because that was an
+evolutionary optimum, right? And so people that are of,
+let's say higher neuroticism, will just think of negative futures where everything goes
+wrong all day every day, and claim that they're
+doing unbiased sampling, and in a sense like
+they're not normalizing for the space of all possibilities. And the space of all possibilities is like super exponentially large. And it's very hard to have this estimate. And in general, I don't think
+that we can predict the future with that much granularity
+because of chaos, right? If you have a complex system, you have some uncertainty
+and a couple variables. If you let time evolve, you have this concept of a
+Lyapunov exponent, right? A bit of fuzz becomes a lot of fuzz in our estimate
+exponentially, so over time. And I think we need to show some humility that we can't actually predict the future. All we know, the only prior we
+have, is the laws of physics. And that's what we're arguing for. The laws of physics say the
+system will want to grow. And subsystems that are
+optimized for growth and replication are more

@@ -1,0 +1,23 @@
+was really interesting was both quantum machine learning was about understanding the
+quantum mechanical world with quantum computers. So embedding the physical
+world into AI representations, and quantum computer engineering was embedding AI algorithms
+into the physical world. So this bidirectionality of embedding physical world into AI, AI into the physical world, the symbiosis between physics and AI, really that's the sort of core of my quest really even to this day,
+after quantum computing, it's still in this sort of journey to merge, really, physics
+and AI fundamentally. - So quantum machine learning is a way to do machine learning on a representation of
+nature that is, you know, stays true to the quantum
+mechanical aspect of nature. - Yeah, it's learning quantum
+mechanical representations that would be quantum deep learning. Alternatively, you can try to
+do classical machine learning on a quantum computer. I wouldn't advise it, because
+you may have some speedups, but very often the speedups
+come with huge costs. Using a quantum computer is
+very expensive. Why is that? Because you assume the computer is operating
+at zero temperature, which no physical system in the universe can achieve that temperature. So what you have to do is
+what I've been mentioning, this quantum error correction process, which is really an
+algorithmic fridge, right? It's trying to pump
+entropy out of the system, trying to get it closer
+to zero temperature. And when you do the calculations of how many resources it would take to say do deep learning
+on a quantum computer, classical deep learning, there's just such a huge
+overhead, it's not worth it. It's like thinking about
+shipping something across a city using a rocket and
+going to orbit and back. It doesn't make sense. Just use an, you know,
+delivery truck, right? - What kind of stuff can you figure out? Can you predict, can you understand with quantum deep learning that you can't with deep learning? So incorporating quantum

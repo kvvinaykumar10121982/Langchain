@@ -1,0 +1,15 @@
+langchain-openai
+azure-identity
+python-dotenv
+azure-cli
+langchain 
+langchain-community
+azure-search-documents
+langchain-text-splitters
+chromadb 
+langchain-chroma
+langchain-azure-ai
+
+
+#do not forget to upgrade pip: 
+#python -m pip install --upgrade pip

@@ -1,0 +1,27 @@
+sponsors in the description. And now, dear friends,
+here's Guillaume Verdon. Let's get the facts of
+identity down first. Your name is Guillaume Verdon, Gill, but you're also behind
+the anonymous account on X called based BasedBeffJezos. So first, Guillaume Verdon,
+you're a quantum computing guy, physicist, applied mathematician, and then BasedBeffJezos is
+basically a meme account that started a movement
+with a philosophy behind it. So maybe just can you linger
+on who these people are in terms of characters, in
+terms of communication styles, in terms of philosophies. - I mean, with my main identity, I guess ever since I was a kid, I wanted to figure out
+a theory of everything to understand the universe. And that path led me to theoretical
+physics eventually, right? Trying to answer the big
+questions of why are we here, where are we going, right? And that led me to
+study information theory and try to understand physics from the lens of information theory, understand the universe
+as one big computation. And essentially, after
+reaching a certain level, studying black hole physics, I realized that I wanted
+to not only understand how the universe computes, but
+sort of compute like nature and figure out how to
+build and apply computers that are inspired by nature. So, you know, physics-based computers, and that sort of brought
+me to quantum computing as a field of study to, first
+of all, simulate nature. And in my work, it was to
+learn representations of nature that can run on such computers. So if you have AI representations
+that think like nature, then they'll be able to more
+accurately represent it. At least that was the thesis that brought me to be an
+early player in the field called quantum machine learning, right? So how to do machine learning
+on quantum computers, and really sort of extend
+notions of intelligence to the quantum realm. So how do you capture and understand quantum mechanical data
+from our world, right? And how do you learn quantum

@@ -1,0 +1,20 @@
+representations of it, now you can learn
+compressed representations that may have some useful
+information in there, latent representation, right? And I think that many of the problems
+facing our civilization are actually beyond this
+complexity barrier, right? I mean the greenhouse effect is a quantum mechanical effect, right? Chemistry is quantum mechanical, you know, nuclear physics is quantum mechanical, a lot of biology and
+protein folding and so on is affected by quantum mechanics. And so unlocking an ability to augment human intellect with
+quantum mechanical computers and quantum mechanical AI seem to me like a fundamental
+capability for civilization that we need to develop. So I spent several years doing that, but over time I kind of
+grew weary of the timelines that were starting to
+look like nuclear fusion. - So one high level question I can ask is maybe by way of definition,
+by way of explanation, what is a quantum computer, and what is quantum machine learning? - Hmm, so a quantum computer really is a quantum mechanical system over which we have sufficient control, and it can maintain its
+quantum mechanical state. And quantum mechanics is how nature behaves at
+the very small scales when things are very small or very cold. And it's actually more fundamental
+than probability theory. So we're used to things
+being this or that, but we're not used to
+thinking in superpositions 'cause, well, our brains can't do that. So we have to translate the
+quantum mechanical world to say linear algebra to grok it. Unfortunately that translation is exponentially inefficient on average. You have to represent things
+with very large matrices, but really you can make a quantum computer out of many things, right? And we've seen all sorts
+of players, you know, from neutral atoms, trapped
+ions, superconducting, metal, photons, and at different frequencies. I think you could make a quantum computer out of many things. But to me, the thing that

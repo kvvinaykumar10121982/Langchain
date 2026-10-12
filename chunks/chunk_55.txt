@@ -1,0 +1,23 @@
+that's aligned with humans has a lot of potential benefits. And so a different way to reframe that is if you don't, we're all gonna die. It just seems to be a very powerful psychological formulation of the goal of creating human-aligned AI. - I think that anxiety is good. I think, like I said,
+I want the free market to create aligned AIs that are reliable and I think that's what
+he's trying to do with xAI. So I'm all for it. What I am against is sort
+of stopping, let's say, the open source ecosystem
+from thriving right? By, let's say, in the executive order, claiming that open source
+LLMs or dual use technologies then should be government controlled. Then everybody needs to register their GPU and their big matrices
+with the government. And I think that extra friction will dissuade a lot of
+hackers from contributing, hackers that could later
+become the researchers that make key discoveries
+that push us forward, right? Including discoveries for AI safety. And so I think I just wanna maintain ubiquity of opportunity
+to contribute to AI, and to own a piece of the future, right? It can't just be legislated,
+you know, behind some wall where only a few players
+get to play the game. - I mean, so the e/acc movement
+is often sort of caricatured to mean sort of progress
+and innovation at all costs, doesn't matter how unsafe it is, doesn't matter if it
+cause a lot of damage. You just build cool shit
+as fast as possible, stay up all night with a
+Diet Coke, whatever it takes. I think, I guess, I don't know if there's
+a question in there, but how important to you and what you've seen the
+different formulations of e/acc is safety, is AI safety? - I think, again, I think like if there
+was no one working on it, I think I would be a proponent of it. I think again, our goal is
+to sort of bring balance and obviously a sense of
+urgency is a useful tool, right, to make progress. It hacks our dopaminergic systems and gives us energy to

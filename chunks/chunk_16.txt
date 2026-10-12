@@ -1,0 +1,25 @@
+development will be achieved through market forces versus
+through, like you said, heavy-handed government regulation. There's a report from last month, I have a million questions
+here, from Yoshua Bengio, Jeff Hinton, and many others. It's titled "The Managing AI Risk in an Era of Rapid Progress." So there's a collection of folks who are very worried about
+too-rapid development of AI without considering AI risk, and they have a bunch of
+practical recommendations. Maybe I give you four, and you
+see if you like any of them. So give independent auditors
+access to AI labs, one. Two, governments and companies allocate 1/3 of their AI research
+and development funding to AI safety. So there's this general
+concept of AI safety. Three, AI companies are required
+to adopt safety measures if dangerous capabilities
+are found in their models. And then four, something
+you kind of mentioned, making tech companies liable for foreseeable and preventable
+harms from their AI systems. So independent auditors, governments and companies
+are forced to spend a significant fraction of
+their funding on safety. You gotta have safety measures
+if shit goes really wrong. And liability, companies are liable. And, you know, that seemed like something you would agree with. - I would say that, you know,
+assigning just, you know, arbitrarily saying 30%
+seems very arbitrary. I think organizations would allocate whatever budget is needed to achieve the sort of
+reliability they need to achieve to perform in the market. And I think third-party auditing firms would naturally pop up, because how would customers know that your product is
+certified reliable, right? They need to see some benchmarks, and those need to be
+done by a third party. The thing I would oppose, and the thing I'm seeing
+that's really worrisome, is there's this sort of weird
+sort of correlated interest between the incumbents, the big
+players, and the government. And if the two get too
+close, we open the door for, you know, some sort of

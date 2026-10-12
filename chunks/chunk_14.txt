@@ -1,0 +1,24 @@
+happened in Germany, right? There was all sorts of
+green movements there where that induced shutdowns
+of nuclear power plants. And then that later on induced the dependency on Russia for oil, right? And that was a net negative for
+Germany and the West, right? And so if we convinced ourselves that slowing down AI progress
+to have only a few players is in the best interest of the West, first of all, that's far more unstable. We almost lost OpenAI
+to this ideology, right? It almost got dismantled,
+right, a couple weeks ago, that would've caused huge
+damage to the AI ecosystem. And so to me, I want
+fault tolerant progress. I want the arrow of technological progress to keep moving forward, and
+making sure we have variance and a decentralized locus of control of various organizations is paramount to achieving
+this fault tolerance. Actually there's a concept
+in quantum computing. When you design a quantum computer, quantum computers are very
+fragile to ambient noise, right? And the world is jiggling about, there's cosmic radiation from outer space that usually flips your quantum bits. And there what you do is you
+encode information non-locally through a process called
+quantum error correction. And by encoding information
+non-locally, any local fault, you know, hitting some
+of your quantum bits with a hammer, proverbial hammer, if your information is
+sufficiently delocalized, it is protected from that local fault. And to me, I think that
+humans fluctuate, right? They can get corrupted,
+they can get bought out. And if you have a top-down hierarchy where very few people control many nodes of many
+systems in our civilization, that is not a fault tolerant system. You corrupt a few nodes, and suddenly you've corrupted
+the whole system, right? Just like we saw at OpenAI, it was a couple board members
+and they had enough power to potentially collapse the organization. And at least to me, you know, I think making sure that
+power for this AI revolution doesn't concentrate in

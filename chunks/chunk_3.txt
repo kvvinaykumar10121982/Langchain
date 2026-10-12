@@ -1,0 +1,24 @@
+from our world, right? And how do you learn quantum
+mechanical representations of our world? On what kind of computer do
+you run these representations and train them? How do you do so? And so that's really sort of the questions I was looking to answer, because ultimately I had
+a sort of crisis of faith. Originally I wanted to
+figure out, you know, as every physicist does at
+the beginning of their career, a few equations that describe
+the whole universe, right? And sort of be the hero
+of the story there. But eventually I realized that actually augmenting
+ourselves with machines, augmenting our ability to perceive, predict, and control
+our world with machines is the path forward, right? And that's what got me to
+leave theoretical physics and go into quantum computing
+and quantum machine learning. And during those years, I thought that there was
+still a piece missing. There was a piece of our
+understanding of the world and our way to compute and our
+way to think about the world. And if you look at the
+physical scales, right, at the very small scales things are quantum mechanical, right? And at the very large scales,
+things are deterministic. Things have averaged out, right? I'm definitely here in this seat. I'm not in a superposition
+over here and there. At the very small scales,
+things are in superposition. They can exhibit interference effects. But at the mesoscales, right, the scales that matter for
+day-to-day life, you know, the scales of proteins, of biology, of gases, liquids, and so on, things are actually
+thermodynamical, right? They're fluctuating. And after, I guess about eight
+years in quantum computing and quantum machine learning,
+I had a realization that, you know, I was looking for
+answers about our universe by studying the very big

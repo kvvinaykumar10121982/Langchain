@@ -1,0 +1,21 @@
+so it's a cybernetic loop. And it turns out that decoders
+that are hierarchical, and at each level the hierarchy are local, perform the best by far, and
+are far more fault tolerant. And the reason is if you
+have a non-local decoder, then you have one fault
+at this control node, and the whole system sort of crashes. Similarly to if you have, you know, one CEO that everybody reports to, and that CEO goes on vacation, the whole company comes to a crawl, right? And so to me, I think that yes, we're seeing a tendency
+towards centralization of AI, but I think there's gonna
+be a correction over time where intelligence is gonna
+go closer to the perception and we're gonna break up
+AI into smaller subsystems that communicate with one another and form a sort of meta system. - So if you look at the hierarchies that are in the world today, there's nations, and
+those are hierarchical, but in relation to each
+other, nations are anarchic. So it's an anarchy. Do you foresee a world like this where there's not a
+over, what'd you call it? A centralized cybernetic control? - [Guillaume] Centralized
+locus of control, yeah. - So like that's suboptimal you're saying? So it would be always
+a state of competition at the very top level. - Yeah, just like, you know, in a company you may have like two units
+working on similar technology and competing with one another, and you prune the one that
+performs not as well, right? And that's a sort of
+selection process for a tree or a product gets killed, right? And then a whole org gets fired. And that's this process
+of trying new things, and shedding old things that didn't work it's what gives us adaptability and helps us converge on, you know, the technologies and things
+to do that are most good. - I just hope there's not a failure mode that's unique to AGI versus humans. 'Cause you're describing human
+systems mostly right now. I just hope when there's a
+monopoly on AGI in one company that we'll see the same

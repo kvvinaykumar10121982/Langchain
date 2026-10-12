@@ -1,0 +1,21 @@
+at a finite volume, of course, of the universe. I think that at least to me,
+intelligence is the, you know, I go back to cybernetics, right? The ability to perceive,
+predict, and control our world. But really it's, nowadays it seems like a lot of intelligence we use is more about compression, right? It's about operationalizing
+information theory, right? In information theory, you have the notion of entropy
+of a distribution or a system and entropy tells you that
+you need this many bits to encode this distribution
+or this subsystem if you had the most optimal code. And AI, at least the way we do it today for LLMs and for quantum, is very much trying to
+minimize relative entropy between our models of
+the world and the world, distributions from the world. And so we're learning, we're searching over the
+space of computations to process the world, define
+that compressed representation that has distilled all
+the variants and noise and entropy, right? And originally, I came to
+quantum machine learning from the study of black holes because the entropy of black
+holes is very interesting, in a sense they're physically the most dense objects in the universe. You can't pack more information spatially any more densely than in a black hole. And so I was wondering how do black holes actually
+encode information? What is their compression code? And so that got me into
+the space of algorithms to search over space of quantum codes. And it got me actually into also how do you acquire
+quantum information from the world, right? So something I've worked
+on, this is public now, is quantum analog digital conversion. So how do you capture information from the real world in superposition, and not destroy the superposition, but digitize for a quantum
+mechanical computer information from the real world. And so if you have an ability to capture quantum information, and search over learned
+representations of it, now you can learn
+compressed representations that may have some useful

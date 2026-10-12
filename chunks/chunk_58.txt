@@ -1,0 +1,28 @@
+on TensorFlow Quantum. What lessons have you learned
+from TensorFlow Quantum, maybe you can speak to like what it takes to create essentially what, like a software API to a quantum computer, - Right, I mean that was
+a challenge to build, to invent, to build, and then to get to run
+on the real devices. - [Lex] Can you actually
+speak to what it is? - Yeah, so TensorFlow
+Quantum was an attempt at, well, I mean I guess we succeeded
+at combining deep learning or differentiable classical programming with quantum computing, and turn quantum computing
+into, or have types of programs that are differentiable
+in quantum computing. And you know, Andrej Karpathy calls differentiable
+programming software 2.0, right? It's like gradient descent is
+a better programmer than you. And the idea was that in the early days
+of quantum computing, you can only run short quantum programs. And so which quantum
+programs should you run? Well, just let gradient descent
+find those programs instead. And so we built sort of
+the first infrastructure to not only run differentiable
+quantum programs, but combine them as part of
+broader deep learning graphs, incorporating deep neural
+networks, you know, the ones you know and love with what are called
+quantum neural networks. And ultimately it was a very
+cross-disciplinary effort. We had to invent all sorts
+of ways to differentiate, to back propagate through
+the graph, the hybrid graph. But ultimately it taught me that the way to program matter
+and to program physics is by differentiating
+through control parameters. If you have parameters that affects the physics of the system, and you can evaluate some loss function, you can optimize the system
+to accomplish a task, whatever that task may be. And that's a very sort of
+universal metaframework for how to program
+physics-based computers. - So try to parameterize everything, make those parameters
+differential, and then optimize. - [Guillaume] Yes. - Okay, so is there some more

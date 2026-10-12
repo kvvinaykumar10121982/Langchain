@@ -1,0 +1,14 @@
+long slog of engineering. But ultimately it's really crazy to me how much exquisite level of control we have over these systems,
+it's actually quite crazy, and people are crossing, you know, they're achieving milestones. It's just, you know, in general
+the media always gets ahead right, of where the technology is. There's a bit too much hype. It's good for fundraising, but sometimes, you know,
+it causes winters, right? It's the hype cycle. I'm bullish on quantum computing on a 10, 15 year timescale personally, but I think there's other quests that can be done in the meantime. I think it's in good hands right now. - Well, let me just explore
+different beautiful ideas, large or small in quantum computing that might jump out at you from memory. So when you co-authored a paper titled "Asymptotically Limitless
+Quantum Energy Teleportation via Qudit Probes." So just out of curiosity, can
+you explain what a qudit is versus a qubit? - Yeah, it's a D state qubit. - [Lex] It's multidimensional - Multidimensional, right. So it's like, well, you know, can you have a notion of like
+an integer floating point that is quantum mechanical? That's something I've had to think about. I think that research was
+a precursor to later work on quantum analog digital conversion. There it was interesting,
+because during my master's, I was trying to understand the energy and entanglement of the vacuum, right, of emptiness. Emptiness has energy,
+which is very weird to say. And our equations of cosmology don't match our calculations for the amount of quantum energy there is in the fluctuations. And so I was trying to hack the
+energy of the vacuum, right? And the reality is that you
+can't just directly hack it. It's not technically free energy. Your lack of knowledge of the fluctuations means you can't extract the energy. But just like, you know, the stock market, if you have a stock that's
+correlated over time, the vacuum's actually correlated. So if you measured the

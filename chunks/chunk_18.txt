@@ -1,0 +1,17 @@
+people, more resources, more intelligence being applied
+to advancing this science and the research and development. And the more successful it is, the more value it's adding to society, the more resources we put in. And that sort of similar to Moore's law as a compounding exponential, I think the priority to me is to maintain near
+equilibrium of capabilities. We've been fighting for open
+source AI to be more prevalent and championed by many organizations, because there you sort
+of equilibrate the alpha relative to the market of AIs, right? So if the leading companies have a certain level of capabilities, and open source and open, truly open AI, trails not too far behind, I think you avoid such a scenario where a market leader
+has so much market power it just dominates everything,
+right, and runs away. And so to us that's the path forward, is to make sure that, you
+know, every hacker out there, every grad student, every
+kid in their mom's basement has access to, you know, AI systems, can understand how to work with them, and can contribute to the search over the hyperparameter space of how to engineer the systems, right? If you think of, you know,
+our collective research as a civilization, it's
+really a search algorithm, and the more points we have
+in the search algorithm in this point cloud, the
+more we'll be able to explore new modes of thinking, right? - Yeah, but it feels
+like a delicate balance because we don't understand exactly what it takes to build AGI, and what it will look
+like when we build it. And so far, like you said, it seems like a lot of different parties are able to make progress. So when OpenAI has a big leap, other companies are able to step up, big and small companies in different ways. But if you look at something
+like nuclear weapons, you've spoken about the Manhattan Project, there could be really like technological and engineering barriers that prevent the guy or
+gal in her mom's basement to make progress. And it seems like the

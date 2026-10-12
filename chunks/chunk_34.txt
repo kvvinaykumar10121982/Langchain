@@ -1,0 +1,20 @@
+mechanical systems into the learning process? - I think that's a great question. I mean, fundamentally it's any system that has sufficient quantum
+mechanical correlations that are very hard to capture. For classical representations, then there should be an advantage for a quantum mechanical representation over a purely classical one. The question is, which systems
+have sufficient correlations that are very quantum, but is also, which systems are
+still relevant to industry? That's a big question. You know, people are
+leaning towards chemistry, nuclear physics. I've worked on actually processing inputs from quantum sensors, right? If you have a network of quantum sensors, they've captured a quantum
+mechanical image of the world, and how to post-process that, that becomes a sort of quantum
+form of machine perception. And so for example, Fermilab has a project exploring detecting dark matter
+with these quantum sensors. And to me that's in
+alignment with my quest to understand the universe
+ever since I was a child. And so someday I hope that we can have very large networks of quantum
+sensors that help us peer into the earliest parts
+of the universe, right? For example, the LIGO is
+a quantum sensor, right? It's just a very large one. So yeah, I would say quantum machine perception
+simulations, right? Grokking quantum simulations
+similar to AlphaFold, right? AlphaFold understood the
+probability distribution over configurations of proteins. You can understand quantum distributions over configurations of
+electrons more efficiently with quantum machine learning. - You co-authored a paper titled "A Universal Training Algorithm
+for Quantum Deep Learning" that involves baqprop with a Q. Very well done, sir, very
+well done. How does it work? Is there some interesting
+aspects you can just mention on how kinda, you know, baqprop and some of these things we know from classical machine learning transfer over to the

@@ -1,0 +1,24 @@
+differential, and then optimize. - [Guillaume] Yes. - Okay, so is there some more
+practical engineering lessons from TensorFlow Quantum, just organizationally too,
+like the humans involved, and how to get to a product, how to create good
+documentation, how do you have, I don't know, all these
+little subtle things that people might not think about. - I think like working across
+disciplinary boundaries is always a challenge, and you have to be extremely patient in teaching one another, right? I learned a lot of software
+engineering through the process. My colleagues learned a
+lot of quantum physics and some learned machine learning through the process of
+building this system. And I think if you get some
+smart people that are passionate and trust each other in a room,
+and you have a small team, and you teach each other your specialties, suddenly you're kind of forming this sort of model soup of expertise, and something special
+comes out of that, right? It's like combining genes,
+but for your knowledge bases. And sometimes special
+products come out of that. And so I think like, even though it's very
+high friction initially to work in an interdisciplinary team. I think the product at the
+end of the day is worth it. And so learned a lot trying
+to bridge the gap there. And I mean, it's still
+a challenge to this day. You know, we hire folks
+that have an AI background, folks that have a pure physics background, and somehow we have to make
+them talk to one another, right. - Is there a magic, is
+there some science and art to the hiring process, to building a team that can create magic together? - Yeah, it's really hard to pinpoint that je ne sais quoi, right, the. - [Lex] I didn't know you
+speak French. That's very nice. - Yeah, I'm actually French Canadian, so. - Oh, you are legitimately
+French Canadian. - [Guillaume] I am a legit. - I thought you were just
+doing that for the cred. - No, no, I'm truly French

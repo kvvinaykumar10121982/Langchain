@@ -1,0 +1,21 @@
+quantum machine learning? - Yeah, that was a funky paper. That was one of my first papers
+in quantum deep learning. Everybody was saying,
+oh, I think deep learning is gonna be sped up by quantum computers. And I was like, well the best
+way to predict the future is to invent it. So here's a hundred page paper, have fun. Essentially, you know, quantum computing is usually you embed reversible operations into a quantum computation. And so the trick there was
+to do a feedforward operation and do what we call a phase kick. But really it's just a force kick. You just kick the system
+with a certain force that is, you know, proportional
+to your loss function that you wish to optimize. And then by performing uncomputation, you start with the superpositions, superposition over parameters,
+right, which is pretty funky. Now you're not just, you don't have just a
+point for parameters. You have a superposition over many potential parameters, right? And our goal is. - Is using phase kicks somehow
+to adjust the parameters? - 'Cause phase kicks emulate having the parameter space be like a particle in n dimensions, and you're trying to get
+the Schrodinger equation, Schrodinger dynamics in the lost landscape of the neural network, right? And so you do an algorithm
+to induce this phase kick, which you know, involves
+a feed forward, a kick, and then when you
+un-compute the feed forward, then all the errors in these
+phase kicks and these forces back propagate and hit
+each one of the parameters throughout the layers. And if you alternate this with an emulation of kinetic energy, then it's kind of like a
+particle moving in n dimensions, a quantum particle. And the advantage in principle would be that it can tunnel
+through the landscape and find new optima that would've been difficult
+for stochastic optimizers. But again, this is kind
+of a theoretical thing, and in practice with at least
+the current architectures for quantum computers that
